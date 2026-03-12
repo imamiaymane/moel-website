@@ -40,7 +40,7 @@ export default function Barbers() {
     const el = scrollerRef.current;
     if (!el) return;
 
-    const speed = 0.6;
+    const speed = 1.2;
 
     const tick = () => {
       if (!paused) {
