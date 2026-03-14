@@ -6,7 +6,7 @@ export default function Services() {
       icon: User,
       title: 'HAARE & BART',
       description: 'Kompletter Service für Haare und Bart',
-      price: '€58',
+      price: '€62',
     },
     {
       icon: Scissors,
@@ -18,7 +18,7 @@ export default function Services() {
       icon: Sparkles,
       title: 'BART RASIEREN / FORMEN',
       description: 'Präzises Rasieren und Formen des Bartes',
-      price: '€22',
+      price: '€26',
     },
     {
       icon: Droplets,
